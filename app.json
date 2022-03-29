@@ -1,0 +1,36 @@
+{
+    "id": "00000000-0000-0000-0000-000000000000",
+    "publisher": "Mitra Global Services",
+    "name": "",
+    "brief": "",
+    "description": "",
+    "version": "1.0.0.0",
+    "privacyStatement": "https://www.mitrags.com/",
+    "EULA": "https://www.mitrags.com/",
+    "help": "https://www.mitrags.com/",
+    "url": "https://www.mitrags.com/",
+    "logo": "./image/logoMitra.png",
+    "dependencies": [],
+    "screenshots": [],
+    "application": "19.0.0.0",
+    "platform": "19.0.0.0",
+    "idRanges": [
+        {
+            "from": 50000,
+            "to": 50000
+        }
+    ],
+    "resourceExposurePolicy": {
+        "includeSourceInSymbolFile": false,
+        "allowDebugging": true,
+        "allowDownloadingSource": false
+    },
+    "supportedLocales": [
+        "en-US",
+        "es-ES"
+      ],
+      "features": [
+        "TranslationFile"
+      ],
+    "runtime": "8.0"
+}
