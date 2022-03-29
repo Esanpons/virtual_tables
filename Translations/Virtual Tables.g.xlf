@@ -3,16 +3,6 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Virtual Tables">
     <body>
       <group id="body">
-        <trans-unit id="Table 1046114301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>pruebas</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table pruebasMGS - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1046114301 - Field 18566459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MyEntryNo</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table pruebasMGS - Field MyEntryNo - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 2937732970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>All Control Fields</source>
           <note from="Developer" annotates="general" priority="2"></note>
