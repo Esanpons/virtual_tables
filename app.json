@@ -1,9 +1,9 @@
 {
-    "id": "00000000-0000-0000-0000-000000000000",
+    "id": "8f80241f-b325-4aad-8aeb-49b87a8dcdc9",
     "publisher": "Mitra Global Services",
-    "name": "",
-    "brief": "",
-    "description": "",
+    "name": "Virtual Tables",
+    "brief": "Virtual Tables",
+    "description": "Virtual Tables",
     "version": "1.0.0.0",
     "privacyStatement": "https://www.mitrags.com/",
     "EULA": "https://www.mitrags.com/",
@@ -12,19 +12,15 @@
     "logo": "./image/logoMitra.png",
     "dependencies": [],
     "screenshots": [],
-    "application": "19.0.0.0",
-    "platform": "19.0.0.0",
+    "application": "17.0.0.0",
+    "platform": "17.0.0.0",
     "idRanges": [
         {
-            "from": 50000,
-            "to": 50000
+            "from": 90000,
+            "to": 900100
         }
     ],
-    "resourceExposurePolicy": {
-        "includeSourceInSymbolFile": false,
-        "allowDebugging": true,
-        "allowDownloadingSource": false
-    },
+    
     "supportedLocales": [
         "en-US",
         "es-ES"
@@ -32,5 +28,6 @@
       "features": [
         "TranslationFile"
       ],
-    "runtime": "8.0"
+      "target": "OnPrem",
+    "runtime": "6.0"
 }
